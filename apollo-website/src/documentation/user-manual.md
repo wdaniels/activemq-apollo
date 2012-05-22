@@ -1267,7 +1267,7 @@ that looks like:
 
     SEND
     destination:/topic/stock/IBM
-    retain:true
+    retain:set
 
     112.12
     ^@
